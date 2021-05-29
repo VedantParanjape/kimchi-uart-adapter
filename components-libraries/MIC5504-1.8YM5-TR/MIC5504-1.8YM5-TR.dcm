@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIC5504-1.8YM5-TR
+D Linear Voltage Regulator IC Positive Fixed Output 1.8V 300mA SOT-23-5
+K
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en580292
+$ENDCMP
+#
+#End Doc Library
