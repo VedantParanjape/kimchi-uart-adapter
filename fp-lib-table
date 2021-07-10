@@ -2,5 +2,4 @@
   (lib (name MIC5504-1.8YM5-TR)(type Legacy)(uri ${KIPRJMOD}/components-libraries/MIC5504-1.8YM5-TR/MIC5504-1.8YM5-TR.mod)(options "")(descr ""))
   (lib (name "SM06B-SRSS-TB(LF)(SN)")(type KiCad)(uri "${KIPRJMOD}/components-libraries/SM06B-SRSS-TB(LF)(SN)")(options "")(descr ""))
   (lib (name USB-TYPE-C)(type KiCad)(uri ${KIPRJMOD}/components-libraries/USB-TYPE-C)(options "")(descr ""))
-  (lib (name footprints)(type KiCad)(uri ${KIPRJMOD}/components-libraries/TPD2E001DRSR/footprints.pretty)(options "")(descr ""))
 )
