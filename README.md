@@ -1,6 +1,12 @@
 # kimchi-uart-adapter
 
+![](assets/kimchi-uart-adapter.png)
+
 UART adapter for the kimichi micro SBC by GroupGets
+
+## Schematics
+
+![](assets/kimchi-uart-adapter.svg)
 
 ## Reference
 
